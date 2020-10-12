@@ -1,0 +1,1 @@
+Here I used four different algorithms to calculate the present value of an investment and calculated the time it takes to excute each algorithm so as to know the most efficient one when dealing with long term cashflows.
